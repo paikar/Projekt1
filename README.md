@@ -9,4 +9,8 @@ Lokale Änderung.
 
 Github Änderung.
 
+<<<<<<< HEAD
 dsdfsdfsdfs
+=======
+Github Änderung auf master Branch.
+>>>>>>> origin/master
